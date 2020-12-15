@@ -1,0 +1,17 @@
+dispatch:
+
+  # Default service serves the typical web resources and all static resources.
+  - url: '*api.beta.buscadordeauto.com/*'
+    service: inventory-api
+
+  # Default service serves simple hostname request.
+  - url: 'beta.buscadordeauto.com/*'
+    service: dev-classifieds-frontend
+
+    # Live Classifieds site
+  - url: 'buscadordeauto.com/*'
+    service: prod-classifieds-frontend
+
+  - url: 'www.buscadordeauto.com/*'
+    service: prod-classifieds-frontend
+

@@ -1,0 +1,22 @@
+[
+	{
+		"path": "$ROOTPATH$/components/vehicle-hits/VehicleHit.vue",
+		"bookmarks": [
+			{
+				"line": 119,
+				"column": 25,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/algolia.js",
+		"bookmarks": [
+			{
+				"line": 60,
+				"column": 6,
+				"label": ""
+			}
+		]
+	}
+]

@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "/Users/quintin/Documents/development/clients/buscadordeauto.com/classifieds_algolia_based_nuxt"
+		},
+		{
+			"path": "/Users/quintin/Documents/development/clients/buscadordeauto.com/inventory_processor_2020"
+		},
+		{
+			"path": "/Users/quintin/Documents/development/clients/buscadordeauto.com/translation_manager"
+		}
+	],
+	"settings": {
+		"search.collapseResults": "alwaysCollapse",
+		"search.smartCase": true,
+		"search.showLineNumbers": true
+	}
+}
